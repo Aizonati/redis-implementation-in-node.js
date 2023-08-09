@@ -1,1 +1,1 @@
-# redis-implementation-in-node.js
+# Redis implementation in Node.js
